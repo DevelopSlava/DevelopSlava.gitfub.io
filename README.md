@@ -1,2 +1,2 @@
-# DevelopSlava.gitfub.io
+# DevelopSlava.github.io
 Мое резюме
